@@ -1,4 +1,7 @@
-# Calculator-App
+# iOS Calculator App
+
+## Purpose
+This app gives an feeling of using the iOS calculator app as it includes most of the functionalities available in iOS app. Additionally, this app also has some additional functionality, about which I am sure that it will amaze you. I would highly recommend you to just get a feel of this app by downloading and feel the functions with your hand.
 
 ## Use APP
 <img src="https://user-images.githubusercontent.com/59147991/219935716-76819a0b-91e8-4d17-a9ea-d7dd756c6320.png" width="175">
