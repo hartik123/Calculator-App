@@ -3,8 +3,8 @@
 ## Purpose
 This app gives an feeling of using the iOS calculator app as it includes most of the functionalities available in iOS app. Additionally, this app also has some additional functionality, about which I am sure that it will amaze you. I would highly recommend you to just get a feel of this app by downloading and feel the functions with your hand.
 
-After scanning the QR code or clicking, the website might take some time to open; please be patient.
-## Use APP
+After scanning the QR code or clicking, the **opening of website might take some time** to open; please be patient. While running or downloading the app, pop up giving warning of downloading app from other sources may come, So, **kindly ignore it**. 
+## Use Android APP
 <img src="https://user-images.githubusercontent.com/59147991/221669678-1b111076-09e9-4df6-8b3d-468e3362b1d9.png" width="175">
 
 #### OR
