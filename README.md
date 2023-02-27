@@ -3,12 +3,13 @@
 ## Purpose
 This app gives an feeling of using the iOS calculator app as it includes most of the functionalities available in iOS app. Additionally, this app also has some additional functionality, about which I am sure that it will amaze you. I would highly recommend you to just get a feel of this app by downloading and feel the functions with your hand.
 
+After scanning the QR code or clicking, the website might take some time to open; please be patient.
 ## Use APP
-<img src="https://user-images.githubusercontent.com/59147991/219935716-76819a0b-91e8-4d17-a9ea-d7dd756c6320.png" width="175">
+<img src="https://user-images.githubusercontent.com/59147991/221669678-1b111076-09e9-4df6-8b3d-468e3362b1d9.png" width="175">
 
 #### OR
 
-[Click on the link to download app](https://fastupload.io/i4TakhayVWpcwPK/file) 
+[Click on the link to download app](https://fastupload.io/5Wi3gjX6f6pSK0k/file) 
 
 ## App Images
 
